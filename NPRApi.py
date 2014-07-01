@@ -6,7 +6,7 @@ import json
 
 def main():
 	url = 'http://api.npr.org/query?apiKey=' 
-	urlKey = 'MDE1MDg3NzIyMDE0MDQwMzE2NDlmNDhlZA001'
+	urlKey = 'myKey'
 	urlNumberResults = '&numResults=5'
 	urlFormat = '&format=json'
 	urlId = '&id=1019'
