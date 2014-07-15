@@ -3,7 +3,7 @@ import json
 
 def main():
     url = 'http://api.npr.org/query'
-    apiKey = 'MDE1MTU3NTg5MDE0MDU0Mjg3ODUxZDQ1NA001'
+    apiKey = 'key'
     numberResults = 5
     responseformat = 'json'
     id = 1019
